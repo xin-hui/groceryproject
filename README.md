@@ -1,5 +1,7 @@
 # groceryproject
 
+This is a sample project
+
 ## Project setup
 ```
 npm install
